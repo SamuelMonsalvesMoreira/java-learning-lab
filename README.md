@@ -30,6 +30,15 @@ O repositório está dividido em exercícios e projetos relacionados aos conteú
 
 Cada solução foi desenvolvida por mim como forma de praticar e compreender o funcionamento do Java. Algumas soluções podem ser diferentes dos exemplos apresentados nas aulas, pois procuro criar minhas próprias versões e testar novas possibilidades.
 
+## ✅ Soluções disponíveis
+
+### Fundamentos da Linguagem de Programação Java
+
+- [x] [Exercício 1 — Idade](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio01Idade.java>);
+- [x] [Exercício 2 — Área do quadrado](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio02AreaQuadrado.java>);
+- [x] [Exercício 3 — Área do retângulo](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio03AreaRetangulo.java>);
+- [x] [Exercício 4 — Diferença de idade](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio04DiferencaIdade.java>).
+
 ## 🚧 Progresso
 
 Este projeto está em desenvolvimento e será atualizado conforme eu avançar nos estudos.
