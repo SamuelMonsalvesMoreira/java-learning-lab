@@ -56,7 +56,7 @@ Este projeto está em desenvolvimento e será atualizado conforme eu avançar no
 1. Faça o clone deste repositório:
 
 ```bash
-git clone <URL_DO_SEU_FORK>
+git clone https://github.com/SamuelMonsalvesMoreira/exercicios-java-basico
 ```
 
 2. Abra a pasta do projeto no IntelliJ IDEA.
