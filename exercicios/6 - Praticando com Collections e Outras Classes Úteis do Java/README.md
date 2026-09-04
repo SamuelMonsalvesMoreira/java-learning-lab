@@ -14,9 +14,9 @@ O [arquivo original com os enunciados](<../6 - Praticando com Collections e Outr
 
 ```text
 solucoes/
-├── exercicio-01-calculadora/src/Exercicio01Calculadora.java
-├── exercicio-02-telefones/src/Exercicio02FormatadorTelefone.java
-└── exercicio-03-conversor-dados/src/Exercicio03ConversorDados.java
+├── exercicio-01-calculadora/src/Calculadora.java
+├── exercicio-02-telefones/src/FormatadorTelefone.java
+└── exercicio-03-conversor-dados/src/ConversorDados.java
 ```
 
-Crie as classes dentro da pasta `src` de cada exercício. Caso um exercício utilize bibliotecas externas, coloque o arquivo `pom.xml` na pasta desse exercício.
+Crie as classes dentro da pasta `src` de cada exercício. O nome da pasta identifica o exercício, então não é necessário repetir `Exercicio01`, `Exercicio02` ou `Exercicio03` no nome da classe. Caso um exercício utilize bibliotecas externas, coloque o arquivo `pom.xml` na pasta desse exercício.

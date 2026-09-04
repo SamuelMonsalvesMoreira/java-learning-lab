@@ -39,9 +39,15 @@ Cada solução foi desenvolvida por mim como forma de praticar e compreender o f
 - [x] [Exercício 3 — Área do retângulo](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio03AreaRetangulo.java>);
 - [x] [Exercício 4 — Diferença de idade](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio04DiferencaIdade.java>).
 
+### Estruturas de Controle em Java
+
+- [x] [Exercício 1 — Tabuada de 1 a 10](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-01-tabuada/src/Tabuada.java>);
+- [x] [Exercício 2 — Cálculo e classificação do IMC](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-02-imc/src/Imc.java>);
+- [x] [Exercício 3 — Pares ou ímpares em ordem decrescente](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-03-pares-impares/src/ParesImpares.java>);
+- [ ] Exercício 4 — Repetição baseada no resto de uma divisão.
+
 ### Próximos módulos preparados
 
-- [ ] [Módulo 2 — Estruturas de Controle](<exercicios/2 - Estruturas de Controle em Java/README.md>);
 - [ ] [Módulo 3 — Classes e Encapsulamento](<exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento/README.md>);
 - [ ] [Módulo 4 — Herança e Polimorfismo](<exercicios/4 - Herança e Polimorfismo em Java/README.md>);
 - [ ] [Módulo 5 — Interfaces e Lambda](<exercicios/5 - Dominando Interfaces e Lambda em Java/README.md>);
