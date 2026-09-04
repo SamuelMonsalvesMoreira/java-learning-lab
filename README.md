@@ -44,7 +44,7 @@ Cada solução foi desenvolvida por mim como forma de praticar e compreender o f
 - [x] [Exercício 1 — Tabuada de 1 a 10](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-01-tabuada/src/Tabuada.java>);
 - [x] [Exercício 2 — Cálculo e classificação do IMC](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-02-imc/src/Imc.java>);
 - [x] [Exercício 3 — Pares ou ímpares em ordem decrescente](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-03-pares-impares/src/ParesImpares.java>);
-- [ ] Exercício 4 — Repetição baseada no resto de uma divisão.
+- [x] [Exercício 4 — Repetição baseada no resto de uma divisão](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-04-divisao/src/Divisao.java>);
 
 ### Próximos módulos preparados
 
