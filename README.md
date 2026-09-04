@@ -1,4 +1,4 @@
-# ☕ Exercícios de Java Básico — Minhas Soluções
+# ☕ Exercícios de Java — Minhas Soluções
 
 Este repositório reúne minhas versões e soluções dos exercícios propostos pela [Digital Innovation One (DIO)](https://www.dio.me/) durante meus estudos de Java.
 
