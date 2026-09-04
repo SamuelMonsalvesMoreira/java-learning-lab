@@ -19,5 +19,4 @@ solucoes/
 └── exercicio-03-figuras-geometricas/src/
 ```
 
-Crie as interfaces e suas implementações dentro da pasta `src` correspondente. Use uma classe com método `main` para demonstrar o funcionamento de cada solução.
-
+Crie as interfaces e implementações na pasta `src` do exercício correspondente. Use uma classe com método `main` para demonstrar cada solução.

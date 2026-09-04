@@ -14,10 +14,9 @@ O [arquivo original com os enunciados](<../6 - Praticando com Collections e Outr
 
 ```text
 solucoes/
-├── exercicio-01-calculadora/src/
-├── exercicio-02-telefones/src/
-└── exercicio-03-conversor-dados/src/
+├── exercicio-01-calculadora/src/Exercicio01Calculadora.java
+├── exercicio-02-telefones/src/Exercicio02FormatadorTelefone.java
+└── exercicio-03-conversor-dados/src/Exercicio03ConversorDados.java
 ```
 
-Crie suas classes dentro da pasta `src` de cada exercício. Caso utilize bibliotecas externas, coloque também o arquivo de configuração do Maven dentro da pasta do exercício.
-
+Crie as classes dentro da pasta `src` de cada exercício. Caso um exercício utilize bibliotecas externas, coloque o arquivo `pom.xml` na pasta desse exercício.

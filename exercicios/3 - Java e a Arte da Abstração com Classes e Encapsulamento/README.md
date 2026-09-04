@@ -19,5 +19,4 @@ solucoes/
 └── exercicio-03-petshop/src/
 ```
 
-Cada exercício pode ter várias classes. Coloque todas as classes relacionadas dentro da pasta `src` do próprio exercício.
-
+Cada exercício mantém sua própria pasta `src`. Um exercício pode ter várias classes, mas cada classe pública precisa estar em um arquivo de mesmo nome, sem espaços ou hífens.

@@ -19,5 +19,4 @@ solucoes/
 └── exercicio-03-relogios/src/
 ```
 
-Coloque a classe principal, as classes-pai e as classes-filhas dentro da pasta `src` correspondente ao exercício.
-
+Coloque as classes-pai, classes-filhas e classes de execução na pasta `src` do exercício correspondente. Use um arquivo separado para cada classe pública e mantenha o arquivo com o mesmo nome da classe.
