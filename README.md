@@ -39,6 +39,14 @@ Cada solução foi desenvolvida por mim como forma de praticar e compreender o f
 - [x] [Exercício 3 — Área do retângulo](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio03AreaRetangulo.java>);
 - [x] [Exercício 4 — Diferença de idade](<exercicios/1 - Fundamentos da Linguagem de Programação Java/solucoes/src/Exercicio04DiferencaIdade.java>).
 
+### Próximos módulos preparados
+
+- [ ] [Módulo 2 — Estruturas de Controle](<exercicios/2 - Estruturas de Controle em Java/README.md>);
+- [ ] [Módulo 3 — Classes e Encapsulamento](<exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento/README.md>);
+- [ ] [Módulo 4 — Herança e Polimorfismo](<exercicios/4 - Herança e Polimorfismo em Java/README.md>);
+- [ ] [Módulo 5 — Interfaces e Lambda](<exercicios/5 - Dominando Interfaces e Lambda em Java/README.md>);
+- [ ] [Módulo 6 — Collections e Classes Úteis](<exercicios/6 - Praticando com Collections e Outras Classes Úteis do Java/README.md>).
+
 ## 🚧 Progresso
 
 Este projeto está em desenvolvimento e será atualizado conforme eu avançar nos estudos.
