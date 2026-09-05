@@ -50,7 +50,7 @@ Cada solução foi desenvolvida por mim como forma de praticar e compreender o f
 
 - [ ] Exercício 1 — Conta bancária e cheque especial;
 - [ ] Exercício 2 — Controle das funções de um carro;
-- [x] [Exercício 3 — Máquina de banho para petshop](<exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento/solucoes/exercicio-03-petshop/src/Main.java>).
+- [x] [Exercício 3 — Máquina de banho para petshop](<exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento/README.md>).
 
 ### Próximos módulos preparados
 
