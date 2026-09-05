@@ -44,11 +44,16 @@ Cada solução foi desenvolvida por mim como forma de praticar e compreender o f
 - [x] [Exercício 1 — Tabuada de 1 a 10](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-01-tabuada/src/Tabuada.java>);
 - [x] [Exercício 2 — Cálculo e classificação do IMC](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-02-imc/src/Imc.java>);
 - [x] [Exercício 3 — Pares ou ímpares em ordem decrescente](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-03-pares-impares/src/ParesImpares.java>);
-- [ ] Exercício 4 — Repetição baseada no resto de uma divisão.
+- [x] [Exercício 4 — Repetição baseada no resto de uma divisão](<exercicios/2 - Estruturas de Controle em Java/solucoes/exercicio-04-divisao/src/Divisao.java>).
+
+### Classes e Encapsulamento
+
+- [ ] Exercício 1 — Conta bancária e cheque especial;
+- [ ] Exercício 2 — Controle das funções de um carro;
+- [x] [Exercício 3 — Máquina de banho para petshop](<exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento/solucoes/exercicio-03-petshop/src/Main.java>).
 
 ### Próximos módulos preparados
 
-- [ ] [Módulo 3 — Classes e Encapsulamento](<exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento/README.md>);
 - [ ] [Módulo 4 — Herança e Polimorfismo](<exercicios/4 - Herança e Polimorfismo em Java/README.md>);
 - [ ] [Módulo 5 — Interfaces e Lambda](<exercicios/5 - Dominando Interfaces e Lambda em Java/README.md>);
 - [ ] [Módulo 6 — Collections e Classes Úteis](<exercicios/6 - Praticando com Collections e Outras Classes Úteis do Java/README.md>).
