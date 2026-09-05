@@ -66,7 +66,7 @@ Este projeto está em desenvolvimento e será atualizado conforme eu avançar no
 - [x] Instalação e configuração do IntelliJ IDEA;
 - [x] Primeiros programas em Java;
 - [x] Estruturas de controle;
-- [ ] Programação orientada a objetos;
+- [x] Programação orientada a objetos;
 - [ ] Collections e tratamento de exceções;
 - [ ] Maven e dependências;
 - [ ] Projetos práticos.
