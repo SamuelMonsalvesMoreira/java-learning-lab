@@ -30,7 +30,7 @@ public class PetMachine {
         this.pet = novoPet;
 
         System.out.println(
-                "Pet " + this.pet.getNomePet() +
+                "Pet " + this.pet.obterNome() +
                         " colocado na máquina."
         );
     }
@@ -41,7 +41,7 @@ public class PetMachine {
             return;
         }
 
-        if (this.pet.isSujo()) {
+        if (this.pet.estaSujo()) {
             this.maquinaSuja = true;
             System.out.println(
                     "O Pet está sujo. A máquina precisará ser limpa."
@@ -49,7 +49,7 @@ public class PetMachine {
         }
 
         System.out.println(
-                "Retirando o pet " + this.pet.getNomePet() + " da máquina."
+                "Retirando o pet " + this.pet.obterNome() + " da máquina."
         );
 
         this.pet = null;
@@ -61,7 +61,7 @@ public class PetMachine {
             return;
         }
 
-        if (!this.pet.isSujo()) {
+        if (!this.pet.estaSujo()) {
             System.out.println("O pet já está limpo.");
             return;
         }
@@ -81,7 +81,7 @@ public class PetMachine {
         this.pet.ficarLimpo();
 
         System.out.println(
-                "Banho do pet " + this.pet.getNomePet() +
+                "Banho do pet " + this.pet.obterNome() +
                         " concluído."
         );
     }
@@ -135,7 +135,7 @@ public class PetMachine {
         }
     }
 
-    public void verificaNivelAgua(){
+    public void verificarNivelAgua(){
         if (this.quantidadeAgua == 30) {
             System.out.println("Nível de água está no máximo: ");
         } else if (this.quantidadeAgua > 0) {
@@ -144,7 +144,7 @@ public class PetMachine {
             System.out.println("A máquina está sem água.");
         }
     }
-    public void verificaNivelShampoo(){
+    public void verificarNivelShampoo(){
         if (this.quantidadeShampoo == 10) {
             System.out.println("Nível de shampoo está no máximo ");
         } else if (this.quantidadeShampoo > 0) {
@@ -154,9 +154,9 @@ public class PetMachine {
         }
     }
 
-    public void verificaPetNaMaquina(){
+    public void verificarPetNaMaquina(){
         if(this.pet != null) {
-            System.out.println("Sim, o pet " + this.pet.getNomePet() + " está na máquina.");
+            System.out.println("Sim, o pet " + this.pet.obterNome() + " está na máquina.");
         } else {
             System.out.println("Não há um pet na máquina.");
         }

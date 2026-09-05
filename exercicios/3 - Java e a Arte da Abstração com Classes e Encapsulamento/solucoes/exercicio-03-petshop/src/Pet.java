@@ -1,23 +1,23 @@
 
 public class Pet  {
 
-    private String nomePet;
-    private boolean estaSujo;
+    private String nome;
+    private boolean sujo;
 
     public Pet(String nome) {
-        this.nomePet = nome;
-        this.estaSujo = true;
+        this.nome = nome;
+        this.sujo = true;
     }
 
-    public String getNomePet() {
-        return nomePet;
+    public String obterNome() {
+        return nome;
     }
 
     public void ficarLimpo() {
-        this.estaSujo = false;
+        this.sujo = false;
     }
 
-    public boolean isSujo() {
-        return this.estaSujo;
+    public boolean estaSujo() {
+        return this.sujo;
     }
 }

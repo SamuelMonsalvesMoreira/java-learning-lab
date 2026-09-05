@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public  class Main{
-    public static void main(String[] args) {
+    public static void main(String[] argumentos) {
 
-        Scanner scanner = new Scanner(System.in);
-        PetMachine machine = new PetMachine();
+        Scanner leitor = new Scanner(System.in);
+        PetMachine maquina = new PetMachine();
 
 
 
@@ -21,43 +21,43 @@ public  class Main{
          System.out.println("8 - Retirar pet da máquina ");
          System.out.println("9 - Limpar a máquina ");
          System.out.println("0 - Sair");
-         opcao = scanner.nextInt();
+         opcao = leitor.nextInt();
 
          switch (opcao) {
                 case  1:
-                    machine.darBanho();
+                    maquina.darBanho();
                     break;
                 case 2:
-                    machine.abastecerAgua();
+                    maquina.abastecerAgua();
                     break;
                 case 3:
-                    machine.abastecerShampoo();
+                    maquina.abastecerShampoo();
                     break;
                 case 4:
-                    machine.verificaNivelAgua();
+                    maquina.verificarNivelAgua();
                     break;
                 case 5:
-                    machine.verificaNivelShampoo();
+                    maquina.verificarNivelShampoo();
                     break;
                 case 6:
 
-                    machine.verificaPetNaMaquina();
+                    maquina.verificarPetNaMaquina();
 
                     break;
                 case 7:
-                    scanner.nextLine();
+                    leitor.nextLine();
 
                     System.out.println("Digite o nome do pet: ");
-                    String nomePet = scanner.nextLine();
+                    String nomePet = leitor.nextLine();
 
                     Pet novoPet = new Pet(nomePet);
-                    machine.colocarPet(novoPet);
+                    maquina.colocarPet(novoPet);
                     break;
                 case 8:
-                    machine.retirarPet();
+                    maquina.retirarPet();
                     break;
                 case 9:
-                    machine.limparMaquina();
+                    maquina.limparMaquina();
                     break;
                 case 0:
                     System.out.println("Saindo...");
@@ -67,7 +67,7 @@ public  class Main{
          }
      }while (opcao !=0);
 
-     scanner.close();
+     leitor.close();
 
     }
 }
