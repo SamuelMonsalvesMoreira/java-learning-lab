@@ -84,7 +84,7 @@ Este projeto está em desenvolvimento e será atualizado conforme eu avançar no
 1. Faça o clone deste repositório:
 
 ```bash
-git clone https://github.com/SamuelMonsalvesMoreira/exercicios-java-basico
+git clone https://github.com/SamuelMonsalvesMoreira/java-learning-lab
 ```
 
 2. Abra a pasta do projeto no IntelliJ IDEA.
